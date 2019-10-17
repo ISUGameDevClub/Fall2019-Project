@@ -1,0 +1,3144 @@
+fileFormatVersion: 2
+guid: 12cccd739417d5c4e81be513943d0e32
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RadZeldaSprites_0
+    21300002: RadZeldaSprites_1
+    21300004: RadZeldaSprites_2
+    21300006: RadZeldaSprites_3
+    21300008: RadZeldaSprites_4
+    21300010: RadZeldaSprites_5
+    21300012: RadZeldaSprites_6
+    21300014: RadZeldaSprites_7
+    21300016: RadZeldaSprites_8
+    21300018: RadZeldaSprites_9
+    21300020: RadZeldaSprites_10
+    21300022: RadZeldaSprites_11
+    21300024: RadZeldaSprites_12
+    21300026: RadZeldaSprites_13
+    21300028: RadZeldaSprites_14
+    21300030: RadZeldaSprites_15
+    21300032: RadZeldaSprites_16
+    21300034: RadZeldaSprites_17
+    21300036: RadZeldaSprites_18
+    21300038: RadZeldaSprites_19
+    21300040: RadZeldaSprites_20
+    21300042: RadZeldaSprites_21
+    21300044: RadZeldaSprites_22
+    21300046: RadZeldaSprites_23
+    21300048: RadZeldaSprites_24
+    21300050: RadZeldaSprites_25
+    21300052: RadZeldaSprites_26
+    21300054: RadZeldaSprites_27
+    21300056: RadZeldaSprites_28
+    21300058: RadZeldaSprites_29
+    21300060: RadZeldaSprites_30
+    21300062: RadZeldaSprites_31
+    21300064: RadZeldaSprites_32
+    21300066: RadZeldaSprites_33
+    21300068: RadZeldaSprites_34
+    21300070: RadZeldaSprites_35
+    21300072: RadZeldaSprites_36
+    21300074: RadZeldaSprites_37
+    21300076: RadZeldaSprites_38
+    21300078: RadZeldaSprites_39
+    21300080: RadZeldaSprites_40
+    21300082: RadZeldaSprites_41
+    21300084: RadZeldaSprites_42
+    21300086: RadZeldaSprites_43
+    21300088: RadZeldaSprites_44
+    21300090: RadZeldaSprites_45
+    21300092: RadZeldaSprites_46
+    21300094: RadZeldaSprites_47
+    21300096: RadZeldaSprites_48
+    21300098: RadZeldaSprites_49
+    21300100: RadZeldaSprites_50
+    21300102: RadZeldaSprites_51
+    21300104: RadZeldaSprites_52
+    21300106: RadZeldaSprites_53
+    21300108: RadZeldaSprites_54
+    21300110: RadZeldaSprites_55
+    21300112: RadZeldaSprites_56
+    21300114: RadZeldaSprites_57
+    21300116: RadZeldaSprites_58
+    21300118: RadZeldaSprites_59
+    21300120: RadZeldaSprites_60
+    21300122: RadZeldaSprites_61
+    21300124: RadZeldaSprites_62
+    21300126: RadZeldaSprites_63
+    21300128: RadZeldaSprites_64
+    21300130: RadZeldaSprites_65
+    21300132: RadZeldaSprites_66
+    21300134: RadZeldaSprites_67
+    21300136: RadZeldaSprites_68
+    21300138: RadZeldaSprites_69
+    21300140: RadZeldaSprites_70
+    21300142: RadZeldaSprites_71
+    21300144: RadZeldaSprites_72
+    21300146: RadZeldaSprites_73
+    21300148: RadZeldaSprites_74
+    21300150: RadZeldaSprites_75
+    21300152: RadZeldaSprites_76
+    21300154: RadZeldaSprites_77
+    21300156: RadZeldaSprites_78
+    21300158: RadZeldaSprites_79
+    21300160: RadZeldaSprites_80
+    21300162: RadZeldaSprites_81
+    21300164: RadZeldaSprites_82
+    21300166: RadZeldaSprites_83
+    21300168: RadZeldaSprites_84
+    21300170: RadZeldaSprites_85
+    21300172: RadZeldaSprites_86
+    21300174: RadZeldaSprites_87
+    21300176: RadZeldaSprites_88
+    21300178: RadZeldaSprites_89
+    21300180: RadZeldaSprites_90
+    21300182: RadZeldaSprites_91
+    21300184: RadZeldaSprites_92
+    21300186: RadZeldaSprites_93
+    21300188: RadZeldaSprites_94
+    21300190: RadZeldaSprites_95
+    21300192: RadZeldaSprites_96
+    21300194: RadZeldaSprites_97
+    21300196: RadZeldaSprites_98
+    21300198: RadZeldaSprites_99
+    21300200: RadZeldaSprites_100
+    21300202: RadZeldaSprites_101
+    21300204: RadZeldaSprites_102
+    21300206: RadZeldaSprites_103
+    21300208: RadZeldaSprites_104
+    21300210: RadZeldaSprites_105
+    21300212: RadZeldaSprites_106
+    21300214: RadZeldaSprites_107
+    21300216: RadZeldaSprites_108
+    21300218: RadZeldaSprites_109
+    21300220: RadZeldaSprites_110
+    21300222: RadZeldaSprites_111
+    21300224: RadZeldaSprites_112
+    21300226: RadZeldaSprites_113
+    21300228: RadZeldaSprites_114
+    21300230: RadZeldaSprites_115
+    21300232: RadZeldaSprites_116
+    21300234: RadZeldaSprites_117
+    21300236: RadZeldaSprites_118
+    21300238: RadZeldaSprites_119
+    21300240: RadZeldaSprites_120
+    21300242: RadZeldaSprites_121
+    21300244: RadZeldaSprites_122
+    21300246: RadZeldaSprites_123
+    21300248: RadZeldaSprites_124
+    21300250: RadZeldaSprites_125
+    21300252: RadZeldaSprites_126
+    21300254: RadZeldaSprites_127
+    21300256: RadZeldaSprites_128
+    21300258: RadZeldaSprites_129
+    21300260: RadZeldaSprites_130
+    21300262: RadZeldaSprites_131
+    21300264: RadZeldaSprites_132
+    21300266: RadZeldaSprites_133
+    21300268: RadZeldaSprites_134
+    21300270: RadZeldaSprites_135
+    21300272: RadZeldaSprites_136
+    21300274: RadZeldaSprites_137
+    21300276: RadZeldaSprites_138
+    21300278: RadZeldaSprites_139
+    21300280: RadZeldaSprites_140
+    21300282: RadZeldaSprites_141
+    21300284: RadZeldaSprites_142
+    21300286: RadZeldaSprites_143
+    21300288: RadZeldaSprites_144
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RadZeldaSprites_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b75d5563217e84b987200317411666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333c1b2e9384c8d449f90a21c6429737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a088fb8c60d3549b0edcbf234449c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788b3a64e391ccc4f812d855092746e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bf7e9e77526714ca00beb8b8fcfe14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b249c24463f30da4c945afdd935d9054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_6
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51401327b7091e74988609ab53bfc49f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e142727b40073cb48a8c7d8af6ade510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_8
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1176
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba6f924e316ea44197cecce6d002061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_9
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1210
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c41e72ea22d3a4487a5ddc1e38689e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_10
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1122
+        width: 64
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb90633674b4a945a19c3cd0604fd43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_11
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1122
+        width: 64
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8438c12d5494474fae82aa65bff8c3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_12
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1122
+        width: 64
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57bfb0218c0da140ae84b36cd593341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_13
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1102
+        width: 344
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afaaa4103af9b845bf9f54314c2798c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_14
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1184
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee11aa45ba7ecb4eb9c530e9ad83b9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_15
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 986
+        width: 288
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e180d1cbff2d71e43923094d942ef447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1174
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da9966d9c524d141bdf95f4c6f733aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_17
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1174
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10673ab659f58514799beef43ad53ea7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1174
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de660bc6cd22094da50c5cff2ad6a91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1174
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61b4cb5602f25b4db2858179836827d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1174
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259270772ccf9f74ba89485c0017adae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_21
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1174
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32593c8cc9513f4a88c32e407c75b41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_22
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1174
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5401bd031739dcc409cb956a73888400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1174
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c752f13101520644a1504d1851fd2b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_24
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1178
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274b37f1e0b5311498f9c230f81fdeb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1158
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b85ddebb503b2c4db300d5a3eebe4d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_26
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1158
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a090815c4c5b9f54d99ed0b9498c5c2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_27
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1158
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55497c69e8e9b946bab424be1ff152b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_28
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77410fc3187e4824ab4b26ff579e0244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_29
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1118
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3ccf4d905b6504397bdd97f321127e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_30
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1040
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6720c4efcdc353e43821091554070f2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_31
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1106
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9f79b86257f07489f90b94f4d5d4a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619fa6b25b74a3f4daeb7267207e58d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_33
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0042c9d1d31b13458f4de80b1fb28c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_34
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1114
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e4755cdc669e64382980c2b7354544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_35
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1066
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd224549d2637c40a3a7c433aad0f64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_36
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1070
+        width: 160
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23466d361ca1d5a4ea587198938d67a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_37
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1076
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e06bf6514448a7438dbabe67d8ab4ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_38
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1078
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d281dc0d46a906f40a48cdeb6f168a7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_39
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1076
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ba4a6611b9c2741bde0a9c151eab3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_40
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1070
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3825fa95729f14e956aca7352f253f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_41
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1046
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee8498032e528a4f9c3b07730fad310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_42
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1046
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d555147b76c6b47acef956e84e6d6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_43
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1022
+        width: 64
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2a6b55bf7ce924e9fcaf99d9040ce1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_44
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 948
+        width: 192
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad2fddc072d4ba4589ff65ffd69ec89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_45
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 988
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5e981ba8f83594f82107459ba44772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_46
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 970
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ad1af0ea049bf468de07d895863db4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_47
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 884
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d75c7e8a44d084585cad3d0c257ca5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_48
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 886
+        width: 192
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31475c6d3f98a7a43801ac5837423629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_49
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 884
+        width: 224
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f344372180b4034092c313d000883f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_50
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 880
+        width: 48
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84700d39896f454abb769f5753a2049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_51
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 880
+        width: 74
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9f6e34275b0994bac7cc2387321962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_52
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 872
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e761deda0c8cf8746b8cb8c087b5026a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_53
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 884
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69326122a701809489839f2abd6be939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_54
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 930
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c8f285050a8df4684ebecdbc4ab41b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_55
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 880
+        width: 128
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c4efc2679fa6141aba12921a5cbc5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_56
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 880
+        width: 128
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8600408e92690443883ed88d8625abf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_57
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 878
+        width: 62
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0046ed494675c9742af9366606c8d733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_58
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 890
+        width: 96
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4e2a51c8052a843a93c6a1c31acea9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_59
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 898
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7863b5013e24b74dad2e53eb4287219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_60
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 898
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcf0d0ec4b11a04382a4c18a7b865fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_61
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 866
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569c50494416a5c4db409cfac4315484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_62
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 638
+        width: 192
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba1fd68a27068b439b9ff18edc01cc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_63
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 672
+        width: 128
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7aa6d8862c33f4ebf7ecf1cf2f3363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_64
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 694
+        width: 320
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec641271f9a2a8f49ab8f78a639b714a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_65
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 692
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ca0fafc31fe6f4ab8562d8f0ea8abf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_66
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 690
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca204698dc956d48b5ba3efcaeb6e2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_67
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 690
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71587cff59267da45a7b8a7275fd325f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_68
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 758
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbf907f545f4c04393e6c3a2e9f0c29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_69
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 696
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a16e0953ab5054688582a5d24e69e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_70
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 700
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b775c00cf97862e4ea96956d1540884e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_71
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 686
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12577c022e6e14c468b4f83c1cd9ac01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_72
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 686
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ca34c28be1ac24a9afd672a5beaaa1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_73
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 684
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef1f7209f941284eb01f91185c0ee24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_74
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 682
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595139c5d39084745b3fdac310debae9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_75
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 682
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb65bb3c38476844a574273de7b1780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_76
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 670
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ac0e334c5e6864aa8a02891aa77f58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_77
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 670
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1038f3a6087d6c438183b490f0c7c4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_78
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 670
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3775b5e9628707246b2b361b40895aa3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_79
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 670
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac53572acce761b43b86251aa4901063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_80
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 668
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0520c97f640258e469da2c32692b2ad5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_81
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 668
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bd90bc31bdf0a4981d7a9a95b6fa39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_82
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 666
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ba9acf9a01460418408d56970e4535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_83
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 666
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064ce11b23455074487ea5bfc69a6593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_84
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 666
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a63df3e8d7c9ca42a6a76e9f2705db4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_85
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 666
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef14136b3b56c6342a9087be28324687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_86
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 588
+        width: 112
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3e5c180a3215d418eb6db11bfbfe03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_87
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 524
+        width: 16
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c6de3ba7d452d4f8db9820cc311f0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_88
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 556
+        width: 16
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86251dfc3cb5454b9cded17a7fee2b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_89
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 586
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc08b644c555414580de9649782332c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_90
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 530
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b87ed9a7448f03448564084f125e2cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_91
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 492
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80f80393fd9b4c479371925790ba8b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_92
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 598
+        width: 96
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e569ee31b3e684cafbd4c1f7eee435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_93
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 506
+        width: 128
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b25ed96aeb73b49ae793acd92283f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_94
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 506
+        width: 128
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d0297adcdb0fa4c9a7e53b10c10791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_95
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 504
+        width: 128
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1462647023a794645837debefa6be323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_96
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 504
+        width: 128
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cb340d46a3e114da665f7a62121cd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_97
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 606
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c50ea90613498841a709fbe98db4e59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_98
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0115f6a17454a484b840a46c8bd4f424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_99
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 554
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657b66ea181f09b4cba2602673f01609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_100
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 554
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377e0397c1bfacb46997f748d1976e0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_101
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 554
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2fbe4dc1618de4ca95d925bc2fdf02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_102
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 554
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5678b291610dac942b76ec43c099738c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_103
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 526
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99526d993d336ee42afabeaf59a41e86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_104
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 534
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de465613ba75f22439e1a29baba09de5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_105
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 534
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b171d365d057c464d9ec2ff7a81162a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_106
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 518
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44b7f7bb185d874e9d2044fbd41d5fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_107
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 518
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4bfe7bbda6558428ec3b90933347cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_108
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 526
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbeed7f542061d45b5978af1caa9751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_109
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 514
+        width: 96
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b162b193cce42b4c83cedd0923aff8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_110
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 522
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8a902d04ceb2f4da56ff3d40814f81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_111
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 506
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ae801dbb5826d43b947d9ceea54c2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_112
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 506
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bc42d9c6889e1449bcd36292e006c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_113
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 232
+        width: 192
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1d25c26be364c409d6cf3d613aa12e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_114
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 372
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295e4bd39c22118458b01f0049e6da9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_115
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 484
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9a555527c1ce44291cab9f721ad709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_116
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 170
+        width: 256
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4260cb4b1b0a1e9428c68787199bbf6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_117
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 330
+        width: 192
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc530f1fd6b28c4b9921b8cb842c687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_118
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 434
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e0b8bad4b7a2045a7f3effdd33be78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_119
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 432
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddb34b5438d41a4e900ac313827ed60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_120
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 468
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4993ee44d4ba28a4da756da42449eb22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_121
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 468
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962949eb0a5eada41af29a01faf9fede
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_122
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 352
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344aaaf8dc0820f4f95d0efbfa118591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_123
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 350
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f20bd2c0b498b49a2a1299fb42d47a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_124
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 452
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8a055af980a9648b0535763f38e4c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_125
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 452
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469c95b0253f4f04c8ffbbfd73f35ffe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_126
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 436
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0c84b1f42156246b3004acf0123fa6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_127
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 436
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cddcbe1af19a24aa5048f065bdad1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_128
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 420
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd3af348e9107e47b45ad2c2d75dfc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_129
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 420
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1810b627993674aaebf933880279e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_130
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 70
+        width: 224
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e306897b98146cf4db3dc092e1b49fda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_131
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 404
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a9ba3a81834f24bb0cc288960a99a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_132
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 404
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9531a9c3e55f9f4cbd4f42115877b69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_133
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 224
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de10d439cea69544bbc227a1f2a4c9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_134
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 226
+        width: 192
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9715c649fbeb43049bf7b80723516619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_135
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 218
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04bea3036d03f1468f911bce4b7cb4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_136
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 180
+        width: 288
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6936f750406964d9c95a3e49d50d16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_137
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 208
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9674a2bce63a84790082f5bfe52147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_138
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 208
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6909deb89f79d4a99cd3379e1dd4ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_139
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 202
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e8f20bf9c091c4183b2f31fb53c43c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_140
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 202
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61349474ec2c8d04d812c55a142f8afe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_141
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 4
+        width: 128
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c281828e5ca2245ace504aa93e880f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_142
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 4
+        width: 128
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6a0ec9310b1e84ba7427ee1e6a81e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_143
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 4
+        width: 128
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96b4bc2b0f689a45ba21e4530c3181d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadZeldaSprites_144
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 10
+        width: 360
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479181697132f1744a30e4ce936861e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2d1d23cbcd2f1734caa0fafa8477f3c9
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
