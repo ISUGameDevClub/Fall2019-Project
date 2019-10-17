@@ -1,0 +1,7915 @@
+fileFormatVersion: 2
+guid: c876f2357ae449344b5a2d2658141477
+timeCreated: 1569726375
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LinkSprites_0
+    21300002: LinkSprites_1
+    21300004: LinkSprites_2
+    21300006: LinkSprites_3
+    21300008: LinkSprites_4
+    21300010: LinkSprites_5
+    21300012: LinkSprites_6
+    21300014: LinkSprites_7
+    21300016: LinkSprites_8
+    21300018: LinkSprites_9
+    21300020: LinkSprites_10
+    21300022: LinkSprites_11
+    21300024: LinkSprites_12
+    21300026: LinkSprites_13
+    21300028: LinkSprites_14
+    21300030: LinkSprites_15
+    21300032: LinkSprites_16
+    21300034: LinkSprites_17
+    21300036: LinkSprites_18
+    21300038: LinkSprites_19
+    21300040: LinkSprites_20
+    21300042: LinkSprites_21
+    21300044: LinkSprites_22
+    21300046: LinkSprites_23
+    21300048: LinkSprites_24
+    21300050: LinkSprites_25
+    21300052: LinkSprites_26
+    21300054: LinkSprites_27
+    21300056: LinkSprites_28
+    21300058: LinkSprites_29
+    21300060: LinkSprites_30
+    21300062: LinkSprites_31
+    21300064: LinkSprites_32
+    21300066: LinkSprites_33
+    21300068: LinkSprites_34
+    21300070: LinkSprites_35
+    21300072: LinkSprites_36
+    21300074: LinkSprites_37
+    21300076: LinkSprites_38
+    21300078: LinkSprites_39
+    21300080: LinkSprites_40
+    21300082: LinkSprites_41
+    21300084: LinkSprites_42
+    21300086: LinkSprites_43
+    21300088: LinkSprites_44
+    21300090: LinkSprites_45
+    21300092: LinkSprites_46
+    21300094: LinkSprites_47
+    21300096: LinkSprites_48
+    21300098: LinkSprites_49
+    21300100: LinkSprites_50
+    21300102: LinkSprites_51
+    21300104: LinkSprites_52
+    21300106: LinkSprites_53
+    21300108: LinkSprites_54
+    21300110: LinkSprites_55
+    21300112: LinkSprites_56
+    21300114: LinkSprites_57
+    21300116: LinkSprites_58
+    21300118: LinkSprites_59
+    21300120: LinkSprites_60
+    21300122: LinkSprites_61
+    21300124: LinkSprites_62
+    21300126: LinkSprites_63
+    21300128: LinkSprites_64
+    21300130: LinkSprites_65
+    21300132: LinkSprites_66
+    21300134: LinkSprites_67
+    21300136: LinkSprites_68
+    21300138: LinkSprites_69
+    21300140: LinkSprites_70
+    21300142: LinkSprites_71
+    21300144: LinkSprites_72
+    21300146: LinkSprites_73
+    21300148: LinkSprites_74
+    21300150: LinkSprites_75
+    21300152: LinkSprites_76
+    21300154: LinkSprites_77
+    21300156: LinkSprites_78
+    21300158: LinkSprites_79
+    21300160: LinkSprites_80
+    21300162: LinkSprites_81
+    21300164: LinkSprites_82
+    21300166: LinkSprites_83
+    21300168: LinkSprites_84
+    21300170: LinkSprites_85
+    21300172: LinkSprites_86
+    21300174: LinkSprites_87
+    21300176: LinkSprites_88
+    21300178: LinkSprites_89
+    21300180: LinkSprites_90
+    21300182: LinkSprites_91
+    21300184: LinkSprites_92
+    21300186: LinkSprites_93
+    21300188: LinkSprites_94
+    21300190: LinkSprites_95
+    21300192: LinkSprites_96
+    21300194: LinkSprites_97
+    21300196: LinkSprites_98
+    21300198: LinkSprites_99
+    21300200: LinkSprites_100
+    21300202: LinkSprites_101
+    21300204: LinkSprites_102
+    21300206: LinkSprites_103
+    21300208: LinkSprites_104
+    21300210: LinkSprites_105
+    21300212: LinkSprites_106
+    21300214: LinkSprites_107
+    21300216: LinkSprites_108
+    21300218: LinkSprites_109
+    21300220: LinkSprites_110
+    21300222: LinkSprites_111
+    21300224: LinkSprites_112
+    21300226: LinkSprites_113
+    21300228: LinkSprites_114
+    21300230: LinkSprites_115
+    21300232: LinkSprites_116
+    21300234: LinkSprites_117
+    21300236: LinkSprites_118
+    21300238: LinkSprites_119
+    21300240: LinkSprites_120
+    21300242: LinkSprites_121
+    21300244: LinkSprites_122
+    21300246: LinkSprites_123
+    21300248: LinkSprites_124
+    21300250: LinkSprites_125
+    21300252: LinkSprites_126
+    21300254: LinkSprites_127
+    21300256: LinkSprites_128
+    21300258: LinkSprites_129
+    21300260: LinkSprites_130
+    21300262: LinkSprites_131
+    21300264: LinkSprites_132
+    21300266: LinkSprites_133
+    21300268: LinkSprites_134
+    21300270: LinkSprites_135
+    21300272: LinkSprites_136
+    21300274: LinkSprites_137
+    21300276: LinkSprites_138
+    21300278: LinkSprites_139
+    21300280: LinkSprites_140
+    21300282: LinkSprites_141
+    21300284: LinkSprites_142
+    21300286: LinkSprites_143
+    21300288: LinkSprites_144
+    21300290: LinkSprites_145
+    21300292: LinkSprites_146
+    21300294: LinkSprites_147
+    21300296: LinkSprites_148
+    21300298: LinkSprites_149
+    21300300: LinkSprites_150
+    21300302: LinkSprites_151
+    21300304: LinkSprites_152
+    21300306: LinkSprites_153
+    21300308: LinkSprites_154
+    21300310: LinkSprites_155
+    21300312: LinkSprites_156
+    21300314: LinkSprites_157
+    21300316: LinkSprites_158
+    21300318: LinkSprites_159
+    21300320: LinkSprites_160
+    21300322: LinkSprites_161
+    21300324: LinkSprites_162
+    21300326: LinkSprites_163
+    21300328: LinkSprites_164
+    21300330: LinkSprites_165
+    21300332: LinkSprites_166
+    21300334: LinkSprites_167
+    21300336: LinkSprites_168
+    21300338: LinkSprites_169
+    21300340: LinkSprites_170
+    21300342: LinkSprites_171
+    21300344: LinkSprites_172
+    21300346: LinkSprites_173
+    21300348: LinkSprites_174
+    21300350: LinkSprites_175
+    21300352: LinkSprites_176
+    21300354: LinkSprites_177
+    21300356: LinkSprites_178
+    21300358: LinkSprites_179
+    21300360: LinkSprites_180
+    21300362: LinkSprites_181
+    21300364: LinkSprites_182
+    21300366: LinkSprites_183
+    21300368: LinkSprites_184
+    21300370: LinkSprites_185
+    21300372: LinkSprites_186
+    21300374: LinkSprites_187
+    21300376: LinkSprites_188
+    21300378: LinkSprites_189
+    21300380: LinkSprites_190
+    21300382: LinkSprites_191
+    21300384: LinkSprites_192
+    21300386: LinkSprites_193
+    21300388: LinkSprites_194
+    21300390: LinkSprites_195
+    21300392: LinkSprites_196
+    21300394: LinkSprites_197
+    21300396: LinkSprites_198
+    21300398: LinkSprites_199
+    21300400: LinkSprites_200
+    21300402: LinkSprites_201
+    21300404: LinkSprites_202
+    21300406: LinkSprites_203
+    21300408: LinkSprites_204
+    21300410: LinkSprites_205
+    21300412: LinkSprites_206
+    21300414: LinkSprites_207
+    21300416: LinkSprites_208
+    21300418: LinkSprites_209
+    21300420: LinkSprites_210
+    21300422: LinkSprites_211
+    21300424: LinkSprites_212
+    21300426: LinkSprites_213
+    21300428: LinkSprites_214
+    21300430: LinkSprites_215
+    21300432: LinkSprites_216
+    21300434: LinkSprites_217
+    21300436: LinkSprites_218
+    21300438: LinkSprites_219
+    21300440: LinkSprites_220
+    21300442: LinkSprites_221
+    21300444: LinkSprites_222
+    21300446: LinkSprites_223
+    21300448: LinkSprites_224
+    21300450: LinkSprites_225
+    21300452: LinkSprites_226
+    21300454: LinkSprites_227
+    21300456: LinkSprites_228
+    21300458: LinkSprites_229
+    21300460: LinkSprites_230
+    21300462: LinkSprites_231
+    21300464: LinkSprites_232
+    21300466: LinkSprites_233
+    21300468: LinkSprites_234
+    21300470: LinkSprites_235
+    21300472: LinkSprites_236
+    21300474: LinkSprites_237
+    21300476: LinkSprites_238
+    21300478: LinkSprites_239
+    21300480: LinkSprites_240
+    21300482: LinkSprites_241
+    21300484: LinkSprites_242
+    21300486: LinkSprites_243
+    21300488: LinkSprites_244
+    21300490: LinkSprites_245
+    21300492: LinkSprites_246
+    21300494: LinkSprites_247
+    21300496: LinkSprites_248
+    21300498: LinkSprites_249
+    21300500: LinkSprites_250
+    21300502: LinkSprites_251
+    21300504: LinkSprites_252
+    21300506: LinkSprites_253
+    21300508: LinkSprites_254
+    21300510: LinkSprites_255
+    21300512: LinkSprites_256
+    21300514: LinkSprites_257
+    21300516: LinkSprites_258
+    21300518: LinkSprites_259
+    21300520: LinkSprites_260
+    21300522: LinkSprites_261
+    21300524: LinkSprites_262
+    21300526: LinkSprites_263
+    21300528: LinkSprites_264
+    21300530: LinkSprites_265
+    21300532: LinkSprites_266
+    21300534: LinkSprites_267
+    21300536: LinkSprites_268
+    21300538: LinkSprites_269
+    21300540: LinkSprites_270
+    21300542: LinkSprites_271
+    21300544: LinkSprites_272
+    21300546: LinkSprites_273
+    21300548: LinkSprites_274
+    21300550: LinkSprites_275
+    21300552: LinkSprites_276
+    21300554: LinkSprites_277
+    21300556: LinkSprites_278
+    21300558: LinkSprites_279
+    21300560: LinkSprites_280
+    21300562: LinkSprites_281
+    21300564: LinkSprites_282
+    21300566: LinkSprites_283
+    21300568: LinkSprites_284
+    21300570: LinkSprites_285
+    21300572: LinkSprites_286
+    21300574: LinkSprites_287
+    21300576: LinkSprites_288
+    21300578: LinkSprites_289
+    21300580: LinkSprites_290
+    21300582: LinkSprites_291
+    21300584: LinkSprites_292
+    21300586: LinkSprites_293
+    21300588: LinkSprites_294
+    21300590: LinkSprites_295
+    21300592: LinkSprites_296
+    21300594: LinkSprites_297
+    21300596: LinkSprites_298
+    21300598: LinkSprites_299
+    21300600: LinkSprites_300
+    21300602: LinkSprites_301
+    21300604: LinkSprites_302
+    21300606: LinkSprites_303
+    21300608: LinkSprites_304
+    21300610: LinkSprites_305
+    21300612: LinkSprites_306
+    21300614: LinkSprites_307
+    21300616: LinkSprites_308
+    21300618: LinkSprites_309
+    21300620: LinkSprites_310
+    21300622: LinkSprites_311
+    21300624: LinkSprites_312
+    21300626: LinkSprites_313
+    21300628: LinkSprites_314
+    21300630: LinkSprites_315
+    21300632: LinkSprites_316
+    21300634: LinkSprites_317
+    21300636: LinkSprites_318
+    21300638: LinkSprites_319
+    21300640: LinkSprites_320
+    21300642: LinkSprites_321
+    21300644: LinkSprites_322
+    21300646: LinkSprites_323
+    21300648: LinkSprites_324
+    21300650: LinkSprites_325
+    21300652: LinkSprites_326
+    21300654: LinkSprites_327
+    21300656: LinkSprites_328
+    21300658: LinkSprites_329
+    21300660: LinkSprites_330
+    21300662: LinkSprites_331
+    21300664: LinkSprites_332
+    21300666: LinkSprites_333
+    21300668: LinkSprites_334
+    21300670: LinkSprites_335
+    21300672: LinkSprites_336
+    21300674: LinkSprites_337
+    21300676: LinkSprites_338
+    21300678: LinkSprites_339
+    21300680: LinkSprites_340
+    21300682: LinkSprites_341
+    21300684: LinkSprites_342
+    21300686: LinkSprites_343
+    21300688: LinkSprites_344
+    21300690: LinkSprites_345
+    21300692: LinkSprites_346
+    21300694: LinkSprites_347
+    21300696: LinkSprites_348
+    21300698: LinkSprites_349
+    21300700: LinkSprites_350
+    21300702: LinkSprites_351
+    21300704: LinkSprites_352
+    21300706: LinkSprites_353
+    21300708: LinkSprites_354
+    21300710: LinkSprites_355
+    21300712: LinkSprites_356
+    21300714: LinkSprites_357
+    21300716: LinkSprites_358
+    21300718: LinkSprites_359
+    21300720: LinkSprites_360
+    21300722: LinkSprites_361
+    21300724: LinkSprites_362
+    21300726: LinkSprites_363
+    21300728: LinkSprites_364
+    21300730: LinkSprites_365
+    21300732: LinkSprites_366
+    21300734: LinkSprites_367
+    21300736: LinkSprites_368
+    21300738: LinkSprites_369
+    21300740: LinkSprites_370
+    21300742: LinkSprites_371
+    21300744: LinkSprites_372
+    21300746: LinkSprites_373
+    21300748: LinkSprites_374
+    21300750: LinkSprites_375
+    21300752: LinkSprites_376
+    21300754: LinkSprites_377
+    21300756: LinkSprites_378
+    21300758: LinkSprites_379
+    21300760: LinkSprites_380
+    21300762: LinkSprites_381
+    21300764: LinkSprites_382
+    21300766: LinkSprites_383
+    21300768: LinkSprites_384
+    21300770: LinkSprites_385
+    21300772: LinkSprites_386
+    21300774: LinkSprites_387
+    21300776: LinkSprites_388
+    21300778: LinkSprites_389
+    21300780: LinkSprites_390
+    21300782: LinkSprites_391
+    21300784: LinkSprites_392
+    21300786: LinkSprites_393
+    21300788: LinkSprites_394
+    21300790: LinkSprites_395
+    21300792: LinkSprites_396
+    21300794: LinkSprites_397
+    21300796: LinkSprites_398
+    21300798: LinkSprites_399
+    21300800: LinkSprites_400
+    21300802: LinkSprites_401
+    21300804: LinkSprites_402
+    21300806: LinkSprites_403
+    21300808: LinkSprites_404
+    21300810: LinkSprites_405
+    21300812: LinkSprites_406
+    21300814: LinkSprites_407
+    21300816: LinkSprites_408
+    21300818: LinkSprites_409
+    21300820: LinkSprites_410
+    21300822: LinkSprites_411
+    21300824: LinkSprites_412
+    21300826: LinkSprites_413
+    21300828: LinkSprites_414
+    21300830: LinkSprites_415
+    21300832: LinkSprites_416
+    21300834: LinkSprites_417
+    21300836: LinkSprites_418
+    21300838: LinkSprites_419
+    21300840: LinkSprites_420
+    21300842: LinkSprites_421
+    21300844: LinkSprites_422
+    21300846: LinkSprites_423
+    21300848: LinkSprites_424
+    21300850: LinkSprites_425
+    21300852: LinkSprites_426
+    21300854: LinkSprites_427
+    21300856: LinkSprites_428
+    21300858: LinkSprites_429
+    21300860: LinkSprites_430
+    21300862: LinkSprites_431
+    21300864: LinkSprites_432
+    21300866: LinkSprites_433
+    21300868: LinkSprites_434
+    21300870: LinkSprites_435
+    21300872: LinkSprites_436
+    21300874: LinkSprites_437
+    21300876: LinkSprites_438
+    21300878: LinkSprites_439
+    21300880: LinkSprites_440
+    21300882: LinkSprites_441
+    21300884: LinkSprites_442
+    21300886: LinkSprites_443
+    21300888: LinkSprites_444
+    21300890: LinkSprites_445
+    21300892: LinkSprites_446
+    21300894: LinkSprites_447
+    21300896: LinkSprites_448
+    21300898: LinkSprites_449
+    21300900: LinkSprites_450
+    21300902: LinkSprites_451
+    21300904: LinkSprites_452
+    21300906: LinkSprites_453
+    21300908: LinkSprites_454
+    21300910: LinkSprites_455
+    21300912: LinkSprites_456
+    21300914: LinkSprites_457
+    21300916: LinkSprites_458
+    21300918: LinkSprites_459
+    21300920: LinkSprites_460
+    21300922: LinkSprites_461
+    21300924: LinkSprites_462
+    21300926: LinkSprites_463
+    21300928: LinkSprites_464
+    21300930: LinkSprites_465
+    21300932: LinkSprites_466
+    21300934: LinkSprites_467
+    21300936: LinkSprites_468
+    21300938: LinkSprites_469
+    21300940: LinkSprites_470
+    21300942: LinkSprites_471
+    21300944: LinkSprites_472
+    21300946: LinkSprites_473
+    21300948: LinkSprites_474
+    21300950: LinkSprites_475
+    21300952: LinkSprites_476
+    21300954: LinkSprites_477
+    21300956: LinkSprites_478
+    21300958: LinkSprites_479
+    21300960: LinkSprites_480
+    21300962: LinkSprites_481
+    21300964: LinkSprites_482
+    21300966: LinkSprites_483
+    21300968: LinkSprites_484
+    21300970: LinkSprites_485
+    21300972: LinkSprites_486
+    21300974: LinkSprites_487
+    21300976: LinkSprites_488
+    21300978: LinkSprites_489
+    21300980: LinkSprites_490
+    21300982: LinkSprites_491
+    21300984: LinkSprites_492
+    21300986: LinkSprites_493
+    21300988: LinkSprites_494
+    21300990: LinkSprites_495
+    21300992: LinkSprites_496
+    21300994: LinkSprites_497
+    21300996: LinkSprites_498
+    21300998: LinkSprites_499
+    21301000: LinkSprites_500
+    21301002: LinkSprites_501
+    21301004: LinkSprites_502
+    21301006: LinkSprites_503
+    21301008: LinkSprites_504
+    21301010: LinkSprites_505
+    21301012: LinkSprites_506
+    21301014: LinkSprites_507
+    21301016: LinkSprites_508
+    21301018: LinkSprites_509
+    21301020: LinkSprites_510
+    21301022: LinkSprites_511
+    21301024: LinkSprites_512
+    21301026: LinkSprites_513
+    21301028: LinkSprites_514
+    21301030: LinkSprites_515
+    21301032: LinkSprites_516
+    21301034: LinkSprites_517
+    21301036: LinkSprites_518
+    21301038: LinkSprites_519
+    21301040: LinkSprites_520
+    21301042: LinkSprites_521
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LinkSprites_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 680
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 680
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 682
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 684
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 680
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_5
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 680
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 682
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_7
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 684
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_8
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 680
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_9
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 680
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_10
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 678
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_11
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 676
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_12
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 680
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_13
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 676
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_14
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 676
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_15
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 676
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_16
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 676
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_17
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 676
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_18
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 676
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_19
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 676
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_20
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 676
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_21
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 676
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_22
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 676
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_23
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 676
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_24
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 676
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_25
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 676
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_26
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 676
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_27
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 676
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_28
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 676
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_29
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 676
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_30
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 676
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_31
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 618
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_32
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 618
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_33
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 618
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_34
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 618
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_35
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 618
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_36
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 618
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_37
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 618
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_38
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 618
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_39
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 618
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_40
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 618
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_41
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 618
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_42
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 618
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_43
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 618
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_44
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 618
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_45
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 618
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_46
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 618
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_47
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 618
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_48
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 618
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_49
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 618
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_50
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 618
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_51
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 618
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_52
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 618
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_53
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 618
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_54
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 618
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_55
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 618
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_56
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 618
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_57
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 618
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_58
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 626
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_59
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 626
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_60
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 626
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_61
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 626
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_62
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 626
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_63
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 618
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_64
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 626
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_65
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 626
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_66
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 568
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_67
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 568
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_68
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 574
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_69
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 572
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_70
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 570
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_71
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 570
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_72
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 574
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_73
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 570
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_74
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 568
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_75
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 566
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_76
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 566
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_77
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 566
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_78
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 566
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_79
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 566
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_80
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 566
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_81
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 566
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_82
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 566
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_83
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 566
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_84
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 566
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_85
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 566
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_86
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 566
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_87
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 566
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_88
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 566
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_89
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 566
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_90
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 566
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_91
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 514
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_92
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 514
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_93
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 514
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_94
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 514
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_95
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 514
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_96
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 514
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_97
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 514
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_98
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 514
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_99
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 514
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_100
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 514
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_101
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 514
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_102
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 514
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_103
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 514
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_104
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 514
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_105
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 514
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_106
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 514
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_107
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 514
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_108
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 514
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_109
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 514
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_110
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 514
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_111
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 514
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_112
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 514
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_113
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 514
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_114
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 514
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_115
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 514
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_116
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 514
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_117
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 514
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_118
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 514
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_119
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 514
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_120
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 514
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_121
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 514
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_122
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 514
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_123
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 514
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_124
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 514
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_125
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 514
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_126
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 464
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_127
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 466
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_128
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 466
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_129
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 468
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_130
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 464
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_131
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 466
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_132
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 466
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_133
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 468
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_134
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 464
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_135
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 464
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_136
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 462
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_137
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 460
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_138
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 464
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_139
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 460
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_140
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 460
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_141
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 460
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_142
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 460
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_143
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 460
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_144
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 460
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_145
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 460
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_146
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 460
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_147
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 460
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_148
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 460
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_149
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 460
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_150
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 460
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_151
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 460
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_152
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 460
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_153
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 460
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_154
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 460
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_155
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 460
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_156
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 460
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_157
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 460
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_158
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 460
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_159
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 460
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_160
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 460
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_161
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 400
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_162
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 400
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_163
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 400
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_164
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 400
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_165
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 400
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_166
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 400
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_167
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 400
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_168
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 400
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_169
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 400
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_170
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 400
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_171
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 400
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_172
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 400
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_173
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 400
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_174
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 400
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_175
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 400
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_176
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 400
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_177
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 400
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_178
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 400
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_179
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 400
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_180
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 400
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_181
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 400
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_182
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 400
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_183
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 400
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_184
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_185
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 400
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_186
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 400
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_187
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 400
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_188
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 400
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_189
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 400
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_190
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 400
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_191
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 400
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_192
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 400
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_193
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 400
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_194
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 400
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_195
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 400
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_196
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_197
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 348
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_198
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 348
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_199
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 348
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_200
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 348
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_201
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 356
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_202
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 356
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_203
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 364
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_204
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 364
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_205
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 364
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_206
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 348
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_207
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 348
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_208
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 352
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_209
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 350
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_210
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 352
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_211
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 356
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_212
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 348
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_213
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 348
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_214
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 348
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_215
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 348
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_216
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 348
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_217
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 348
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_218
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 348
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_219
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 348
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_220
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 348
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_221
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 348
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_222
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 348
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_223
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 348
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_224
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 348
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_225
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 348
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_226
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 348
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_227
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 354
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_228
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 354
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_229
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 372
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_230
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 354
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_231
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 296
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_232
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 296
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_233
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 296
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_234
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 296
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_235
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 296
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_236
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 296
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_237
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 296
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_238
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 296
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_239
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 296
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_240
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 296
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_241
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 296
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_242
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 296
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_243
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 296
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_244
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 296
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_245
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 296
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_246
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 296
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_247
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 296
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_248
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 296
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_249
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 296
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_250
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 296
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_251
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 296
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_252
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 296
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_253
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 296
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_254
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 296
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_255
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 296
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_256
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 296
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_257
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 296
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_258
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 296
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_259
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 296
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_260
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 160
+        width: 248
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_261
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 274
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_262
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 274
+        width: 58
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_263
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 270
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_264
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 270
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_265
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 274
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_266
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 274
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_267
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 270
+        width: 72
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_268
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 220
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_269
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 220
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_270
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 220
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_271
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 220
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_272
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 220
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_273
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 220
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_274
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 220
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_275
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 220
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_276
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 220
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_277
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 220
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_278
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 220
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_279
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 220
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_280
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 220
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_281
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 220
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_282
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 220
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_283
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 220
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_284
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 220
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_285
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 220
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_286
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 220
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_287
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 220
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_288
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 220
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_289
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 220
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_290
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 220
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_291
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 220
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_292
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 220
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_293
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 220
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_294
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 220
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_295
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 220
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_296
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 220
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_297
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_298
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_299
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 198
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_300
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 194
+        width: 86
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_301
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 214
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_302
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_303
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 198
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_304
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 198
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_305
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 214
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_306
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 194
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_307
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 208
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_308
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 198
+        width: 68
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_309
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 202
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_310
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 160
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_311
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_312
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_313
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_314
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_315
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 160
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_316
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 160
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_317
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_318
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_319
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_320
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_321
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_322
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 160
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_323
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 160
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_324
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 160
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_325
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_326
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_327
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_328
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_329
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_330
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_331
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_332
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 160
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_333
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 160
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_334
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 160
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_335
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_336
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_337
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_338
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_339
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_340
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_341
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_342
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 160
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_343
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 160
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_344
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 160
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_345
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_346
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_347
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 126
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_348
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 126
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_349
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 126
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_350
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 126
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_351
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 126
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_352
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 126
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_353
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 126
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_354
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 126
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_355
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 126
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_356
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 126
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_357
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 126
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_358
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 126
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_359
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 126
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_360
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 126
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_361
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 126
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_362
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 126
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_363
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 126
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_364
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 126
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_365
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 126
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_366
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 126
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_367
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 126
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_368
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 126
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_369
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 126
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_370
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 126
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_371
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 126
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_372
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 126
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_373
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 126
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_374
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 126
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_375
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_376
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_377
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 126
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_378
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 126
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_379
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 126
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_380
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 126
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_381
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 126
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_382
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 126
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_383
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_384
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 126
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_385
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 126
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_386
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 126
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_387
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 126
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_388
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 126
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_389
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 126
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_390
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 126
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_391
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 92
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_392
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 92
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_393
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_394
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 92
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_395
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 92
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_396
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 92
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_397
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 100
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_398
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 92
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_399
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 92
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_400
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 92
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_401
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 92
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_402
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 92
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_403
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_404
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 92
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_405
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 92
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_406
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 92
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_407
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 100
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_408
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 92
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_409
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 92
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_410
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 92
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_411
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 92
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_412
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 92
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_413
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 92
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_414
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 92
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_415
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 92
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_416
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 92
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_417
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 92
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_418
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 92
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_419
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 92
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_420
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 92
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_421
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 92
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_422
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 92
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_423
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 92
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_424
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 92
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_425
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 92
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_426
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 92
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_427
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 92
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_428
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 92
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_429
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 92
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_430
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 92
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_431
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 92
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_432
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 92
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_433
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 92
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_434
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 92
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_435
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_436
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_437
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_438
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_439
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_440
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_441
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_442
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_443
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_444
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 92
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_445
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_446
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_447
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_448
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_449
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_450
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_451
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_452
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_453
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_454
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_455
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_456
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_457
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_458
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_459
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_460
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_461
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_462
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_463
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_464
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_465
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_466
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_467
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_468
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_469
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_470
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_471
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_472
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_473
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_474
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_475
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_476
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_477
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_478
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_479
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_480
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_481
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_482
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_483
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 58
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_484
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 58
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_485
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_486
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_487
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_488
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_489
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_490
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 36
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_491
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 36
+        width: 58
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_492
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 16
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_493
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 16
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_494
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 36
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_495
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 36
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_496
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 16
+        width: 72
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_497
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 36
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_498
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 36
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_499
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 36
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_500
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 36
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_501
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 36
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_502
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 36
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_503
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 36
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_504
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 36
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_505
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 36
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_506
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 32
+        width: 58
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_507
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 12
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_508
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 36
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_509
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 52
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_510
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 36
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_511
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 36
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_512
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 36
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_513
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_514
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_515
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_516
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 16
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_517
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 8
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_518
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 12
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_519
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 12
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_520
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 12
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LinkSprites_521
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 12
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
