@@ -6,8 +6,8 @@ public class Entity : MonoBehaviour
 {
     //Variables for entity.
     private HealthManager healthMan; //Can be used to store health variables and methods. 
-                                     //IF private, need to set value in Start(). If public, can assign script from inspector, 
-                                        //but this may not be best way.
+                                     //IF private, need to set value in Start(). If public, can assign script from inspector. 
+                                        //IDK what way is better/more efficient/better for performance.
 
     [SerializeField] //Shows field in inspector even though it is private.
     private int damageOutput;
@@ -22,7 +22,7 @@ public class Entity : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    public virtual void Update() //Should be overriden by subclasses.
     {
         //Move()
         //Attack()
@@ -33,6 +33,12 @@ public class Entity : MonoBehaviour
     {
         return healthMan;
     }
+
+    public virtual void Die()  //Should be overwritten by subclasses.
+    {
+        Debug.Log("Entity died!");
+    }
+
     //Look into C# Properties instead of Java Code methods.
     public int GetDamageOutput()
     {
@@ -43,9 +49,10 @@ public class Entity : MonoBehaviour
         damageOutput = newDamageOutput;
     }
 
-    public void Attack()
-    {    }
-    
+    public virtual void Attack() //Should be overwritten by subclasses.
+    {
+
+    }
 
     /* In Player script that inherits from Entity.
     public void useGun();

@@ -12,11 +12,16 @@
         
     }
 
-    //new shows that I am overiding this method from superclass Entity.
-    public new void Attack()
+    //override shows that I am overiding this method from superclass Entity.
+    public override void Attack()
     {
         UseGun();
         UseMelee();
+    }
+
+    public override void Die()
+    {
+        
     }
 
     public void UseGun()

@@ -1078,7 +1078,7 @@ PrefabInstance:
     - target: {fileID: 1305479824054616144, guid: 55230d8ae9cc67d46b2a41bc049bf2a5,
         type: 3}
       propertyPath: cowSpeed
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 55230d8ae9cc67d46b2a41bc049bf2a5, type: 3}
@@ -14924,10 +14924,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   crosshairs: {fileID: 1003308977}
   player: {fileID: 627081076}
-  bulletPrefab: {fileID: 2949965114040949547, guid: e99f73ba9e343ea459126ec83d07d1f4,
+  bulletPrefab: {fileID: 4850287462260116797, guid: de49bdc918b73fb4dbed192c07ba71ce,
     type: 3}
   bulletStart: {fileID: 627081076}
-  bulletSpeed: 30
+  bulletSpeed: 10
 --- !u!1 &1879798454
 GameObject:
   m_ObjectHideFlags: 0
@@ -21556,6 +21556,11 @@ PrefabInstance:
       propertyPath: bulletStart
       value: 
       objectReference: {fileID: 627081076}
+    - target: {fileID: 4022312389364609282, guid: cdef70b887dfecd4f99a8aae769c5a02,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 9161502359444784003, guid: cdef70b887dfecd4f99a8aae769c5a02, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: cdef70b887dfecd4f99a8aae769c5a02, type: 3}

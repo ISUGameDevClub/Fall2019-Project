@@ -12,10 +12,15 @@
         
     }
 
-    //New shows that I am overiding this method from superclass Entity.
-    public new void Attack()
+    //New shows that I am overiding this method from superclass Entity. Maybe OVERRIDE?
+    public override void Attack()
     {
         //Go crazy!
         //Get those cattle!
+    }
+
+    public override void Die()
+    {
+    
     }
 }

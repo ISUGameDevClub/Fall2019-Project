@@ -1,4 +1,6 @@
-﻿public class Livestock : Entity
+﻿using UnityEngine;
+
+public class Livestock : Entity
 {
     // Start is called before the first frame update
     void Start()
@@ -12,9 +14,15 @@
         
     }
 
-    public new void Attack()
+    public override void Die()
     {
+        Debug.Log("Mooooo!");
+        Destroy(gameObject);
+    }
+
+    //public override void Attack()
+    //{
         //Bruh.
         //I cant fight man.
-    }
+    //}
 }

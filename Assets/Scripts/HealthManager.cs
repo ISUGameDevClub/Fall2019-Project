@@ -10,18 +10,12 @@ public class HealthManager : MonoBehaviour
     private int currentHealth;
     private bool isDead = false;
 
-    // Start is called before the first frame update
-    void Start()
-    {
+    private Entity owner;
 
-    }
-
-    // Update is called once per frame
-    void Update()
+    public void Start()
     {
-        //Check if dead.
-        CheckIfDead();
-        DoIfDead();
+        owner = GetComponentInParent<Entity>();
+        Debug.Log(owner.name);
     }
 
     public int GetMaxHealth()
@@ -37,16 +31,16 @@ public class HealthManager : MonoBehaviour
     {
         return currentHealth;
     }
-    //Call this when making damage manager? Or when damaged?.
     public void SetCurrentHealth(int newHealth)
     {
         currentHealth = newHealth;
     }
 
-    //public void TakeDamager()
-   // {
-
- //   }
+    public void TakeDamage(int damage)
+    {
+        SetCurrentHealth(GetCurrentHealth() - damage);
+        CheckIfDead();
+    }
 
     public bool GetIsDead()
     {
@@ -62,27 +56,22 @@ public class HealthManager : MonoBehaviour
         if(GetCurrentHealth()<=0)
         {
             SetIsDead(true);
+            Die();
         }
     }
-    public void DoIfDead()
+    public void Die()
     {
         //What happens when that entity dies?
-        if(GetIsDead() == true)
-        {
-            //Do something...
-            Debug.Log("Somebody died!");
-        }
+        owner.Die(); //Managed by Entity and all subclasses so it can be overwritten.
+        Debug.Log("Somebody died!");
     }
 
     public void Heal(int healAmount)
     {
-        if(healAmount >= GetMaxHealth())
+        SetCurrentHealth(GetCurrentHealth() + healAmount);
+        if(GetCurrentHealth() > GetMaxHealth())
         {
             SetCurrentHealth(GetMaxHealth());
-        }
-        else
-        {
-            SetCurrentHealth(GetCurrentHealth() + healAmount);
         }
     }
 }
