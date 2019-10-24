@@ -11,6 +11,8 @@ GameObject:
   - component: {fileID: 4022312389364609293}
   - component: {fileID: 4022312389364609292}
   - component: {fileID: 4022312389364609295}
+  - component: {fileID: 2442636171889420380}
+  - component: {fileID: 969891004811944044}
   - component: {fileID: 4022312389364609283}
   - component: {fileID: 4022312389364609282}
   m_Layer: 0
@@ -98,6 +100,33 @@ MonoBehaviour:
   facingUpSprite: {fileID: 21300000, guid: 18fc09f9db90bb14c85d7e5911aff6ba, type: 3}
   facingDownSprite: {fileID: 21300000, guid: d6c21961b548378489861e56c2dced79, type: 3}
   facingRightSprite: {fileID: 21300000, guid: 8255bed292a3ece4591611a659d11b66, type: 3}
+--- !u!114 &2442636171889420380
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4022312389364609294}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b1884ce37a261a47ad7e2e5fbaf09b7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxHealth: 5
+  currentHealth: 5
+--- !u!114 &969891004811944044
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4022312389364609294}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f787d5ef8c64354ba214d4421811cfe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damageOutput: 0
 --- !u!50 &4022312389364609283
 Rigidbody2D:
   serializedVersion: 4
