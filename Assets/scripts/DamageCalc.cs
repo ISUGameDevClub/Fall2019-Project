@@ -31,4 +31,10 @@ public class DamageCalc : MonoBehaviour {
 
         return damageLit;
     }
+
+
+    public int takeDamage()
+    {
+        //healtM.getCurrentHealth()
+    }
 }

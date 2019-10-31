@@ -16,6 +16,10 @@ public class HealthManager : MonoBehaviour
         
     }
 
+
+    //New healthM = HealthManager(ldmf;lasd)
+
+
     // Update is called once per frame
     void Update()
     {
