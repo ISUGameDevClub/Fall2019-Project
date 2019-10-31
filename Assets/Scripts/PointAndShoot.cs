@@ -10,17 +10,25 @@ public class PointAndShoot : MonoBehaviour
     public GameObject bulletStart;
 
     public float bulletSpeed = 30.0f;
+    
 
     bool canShoot = true;
 
     private Vector3 target;
-    int BULLETS = 10;
-    Bullet[] bullet = new Bullet[BULLETS];
+    //int BULLETS = 10;
     int currentBullet = 0;
+    GameObject[] b = new GameObject[10];
+    
     // Use this for initialization
     void Start()
     {
         Cursor.visible = false;
+        for (int n = 0; n < 10; n++)
+        {
+            GameObject bull = Instantiate(bulletPrefab) as GameObject;
+            b[n] = bull;
+            b[n].SetActive(false);
+        }
     }
 
     // Update is called once per frame
@@ -31,9 +39,12 @@ public class PointAndShoot : MonoBehaviour
 
         Vector3 difference = target - player.transform.position;
         float rotationZ = Mathf.Atan2(difference.y, difference.x) * Mathf.Rad2Deg;
-        
 
-        
+        if (currentBullet > 10 - 1)
+        {
+            currentBullet = 0;
+        }
+
         if (Input.GetMouseButtonDown(0))
         {
                 float distance = difference.magnitude;
@@ -49,12 +60,14 @@ public class PointAndShoot : MonoBehaviour
     {
         if (canShoot == true)
         {
-            GameObject b = Instantiate(bulletPrefab) as GameObject;
-            b.transform.position = bulletStart.transform.position;
-            b.transform.rotation = Quaternion.Euler(0.0f, 0.0f, rotationZ);
-            b.GetComponent<Rigidbody2D>().velocity = direction * bulletSpeed;
+
+            b[currentBullet].SetActive(true);
+            b[currentBullet].transform.position = bulletStart.transform.position;
+            b[currentBullet].transform.rotation = Quaternion.Euler(0.0f, 0.0f, rotationZ);
+            b[currentBullet].GetComponent<Rigidbody2D>().velocity = direction * bulletSpeed;
             canShoot = false;
-            
+            currentBullet++;
+
         }
         else if(canShoot == false)
         {
