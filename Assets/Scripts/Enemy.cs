@@ -1,4 +1,8 @@
-﻿public class Enemy : Entity
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Enemy : Entity
 {
     // Start is called before the first frame update
     void Start()
@@ -22,5 +26,19 @@
     public override void Die()
     {
     
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        Debug.Log("Hit: " + collision.name + "!");
+        entity = collision.GetComponent<Enemy>();
+        //entity = collision.GetComponent<Livestock>(); //Checks if collided with livestock.
+        if (entity != null) //Does something if collided with livestock.
+        {
+            entity.GetComponent<HealthManager>().TakeDamage(damage);
+            Destroy(gameObject);
+        }
+        //If hit wall
+
     }
 }
