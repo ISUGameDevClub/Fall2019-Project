@@ -20,10 +20,14 @@ public class EnemyManager : MonoBehaviour
     public GameObject enemy;    //prefab of enemy to be spawned
 
     public float firstSpawn = 5f;     //time in seconds to first spawn
-    public float spawnTime = 3f;       //time in seconds between spawns
+    public float spawnTime = 2f;       //time in seconds between spawns
     public Transform[] spawnPoints;    //where enemies spawn
     public bool spawnEnabled;          //see implementation, controls spawner
     public bool spawning;              //is object spawning enemies?
+
+    //debug vars
+    int n = 0;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -36,7 +40,6 @@ public class EnemyManager : MonoBehaviour
     {
         if (spawnEnabled && !spawning)
         {
-            Debug.Log("INIT");
             InvokeRepeating("Spawn", firstSpawn, spawnTime);
             spawning = true;
         }
@@ -45,6 +48,7 @@ public class EnemyManager : MonoBehaviour
         {
             CancelInvoke();
             spawning = false;
+            n = 0;
         }
 
     }
@@ -53,9 +57,7 @@ public class EnemyManager : MonoBehaviour
     {
         int spawnPointIndex = Random.Range(0, spawnPoints.Length);
         Instantiate(enemy, spawnPoints[spawnPointIndex].position, spawnPoints[spawnPointIndex].rotation);
-        Debug.Log("Just Spawned an Enemy");
-        Debug.Log(Time.fixedTime);
-
+        Debug.Log("Spawned Enemy " + ++n);
     }
 
 }
