@@ -31,11 +31,11 @@ public class Enemy : Entity
     private void OnTriggerEnter2D(Collider2D collision)
     {
         Debug.Log("Hit: " + collision.name + "!");
-        entity = collision.GetComponent<Enemy>();
+        Entity entity = collision.GetComponent<Enemy>();
         //entity = collision.GetComponent<Livestock>(); //Checks if collided with livestock.
         if (entity != null) //Does something if collided with livestock.
         {
-            entity.GetComponent<HealthManager>().TakeDamage(damage);
+            entity.GetComponent<HealthManager>().TakeDamage(entity.GetDamageOutput());
             Destroy(gameObject);
         }
         //If hit wall
