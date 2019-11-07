@@ -6,7 +6,7 @@ public class DamageCalc : MonoBehaviour {
 
     private int damage;
     private int armor;
-    
+    public HealthManager healthM;
 
 
 	// Use this for initialization
@@ -33,8 +33,14 @@ public class DamageCalc : MonoBehaviour {
     }
 
 
-    public int takeDamage()
+    public void takeDamage()
     {
-        //healtM.getCurrentHealth()
+        int currentHealth = healthM.GetCurrentHealth();
+        int damageLit = getDamageLit();
+
+        if (currentHealth - damageLit <= 0)
+            healthM.SetCurrentHealth(0);
+        else
+            healthM.SetCurrentHealth(currentHealth - damageLit);
     }
 }

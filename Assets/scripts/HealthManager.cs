@@ -10,6 +10,8 @@ public class HealthManager : MonoBehaviour
     private int currentHealth;
     private bool isDead = false;
 
+    public HealthManager healthMan; //this is an object of HealthManager
+
     // Start is called before the first frame update
     void Start()
     {
