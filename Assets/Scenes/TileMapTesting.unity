@@ -15027,7 +15027,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1870273313}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ba7badf8c6984c044a783e5f18d0a87e, type: 3}
+  m_Script: {fileID: 11500000, guid: 09cc9fa46a6184a40802bdc468b34bbd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   crosshairs: {fileID: 1003308977}
@@ -15035,7 +15035,7 @@ MonoBehaviour:
   bulletPrefab: {fileID: 4850287462260116797, guid: de49bdc918b73fb4dbed192c07ba71ce,
     type: 3}
   bulletStart: {fileID: 627081076}
-  bulletSpeed: 10
+  bulletSpeed: 30
   impact: {fileID: 8300000, guid: b6fdc95dd58cefd469edb5822b2be41c, type: 3}
 --- !u!82 &1870273319
 AudioSource:
