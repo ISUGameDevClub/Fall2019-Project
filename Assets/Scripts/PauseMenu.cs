@@ -9,8 +9,12 @@ public class PauseMenu : MonoBehaviour
     [SerializeField]
     private PauseMenuUI pauseMenuUI;
 
+    AudioSource audioData;
+
     void Start()
     {
+        audioData = GetComponent<AudioSource>();
+        audioData.Play(0);
         //pauseMenuUI = GameObject.FindGameObjectWithTag("Pause Menu UI").GetComponent<PauseMenuUI>(); //How do I get this working?
         //Debug.Log("Test start!");
         //Debug.Log(pauseMenuUIObject);
@@ -36,12 +40,16 @@ public class PauseMenu : MonoBehaviour
     {
         pauseMenuUI.ClosePauseMenu();
         gameIsPaused = false;
+        //audioData.UnPause();
+        audioData.pitch = 1f;
     }
 
     void PauseGame()
     {
         pauseMenuUI.OpenPauseMenu();
         gameIsPaused = true;
+        //audioData.Pause();
+        audioData.pitch = 0.5f;
     }
 
     public void LoadMainMenu()
