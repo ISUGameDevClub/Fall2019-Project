@@ -10,7 +10,6 @@ public class PointAndShoot : MonoBehaviour
     public GameObject bulletStart;
 
     public float bulletSpeed = 30.0f;
-    
 
     bool canShoot = true;
 
@@ -19,6 +18,10 @@ public class PointAndShoot : MonoBehaviour
     int currentBullet = 0;
     GameObject[] b = new GameObject[10];
     
+
+    public AudioClip impact;
+    AudioSource audioSource;
+
     // Use this for initialization
     void Start()
     {
@@ -29,6 +32,7 @@ public class PointAndShoot : MonoBehaviour
             b[n] = bull;
             b[n].SetActive(false);
         }
+        audioSource = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -39,11 +43,11 @@ public class PointAndShoot : MonoBehaviour
 
         Vector3 difference = target - player.transform.position;
         float rotationZ = Mathf.Atan2(difference.y, difference.x) * Mathf.Rad2Deg;
-
         if (currentBullet > 10 - 1)
         {
             currentBullet = 0;
         }
+        
 
         if (Input.GetMouseButtonDown(0))
         {
@@ -65,15 +69,14 @@ public class PointAndShoot : MonoBehaviour
             b[currentBullet].transform.position = bulletStart.transform.position;
             b[currentBullet].transform.rotation = Quaternion.Euler(0.0f, 0.0f, rotationZ);
             b[currentBullet].GetComponent<Rigidbody2D>().velocity = direction * bulletSpeed;
-            canShoot = false;
             currentBullet++;
-
+            audioSource.PlayOneShot(impact, 1.0F);
+            canShoot = false;
         }
         else if(canShoot == false)
         {
             canShoot = true;
         }
-        
     }
    
 }
