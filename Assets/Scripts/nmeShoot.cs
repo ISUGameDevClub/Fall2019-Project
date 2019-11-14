@@ -12,7 +12,7 @@ public class nmeShoot : MonoBehaviour
     public float fireRate = 0.05f;
     private float nextFire = 0.0f;
 
-    bool canShoot = true;
+
 
     private Vector3 target;
     Random r = new Random();
