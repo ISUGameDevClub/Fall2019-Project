@@ -14,11 +14,15 @@ public class PointAndShoot : MonoBehaviour
     bool canShoot = true;
 
     private Vector3 target;
-    
+
+    public AudioClip impact;
+    AudioSource audioSource;
+
     // Use this for initialization
     void Start()
     {
         Cursor.visible = false;
+        audioSource = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -38,7 +42,6 @@ public class PointAndShoot : MonoBehaviour
                 Vector2 direction = difference / distance;
                 direction.Normalize();
                 fireBullet(direction, rotationZ);
-            
         }
      
     }
@@ -48,6 +51,7 @@ public class PointAndShoot : MonoBehaviour
         if (canShoot == true)
         {
             GameObject b = Instantiate(bulletPrefab) as GameObject;
+            audioSource.PlayOneShot(impact, 1.0F);
             b.transform.position = bulletStart.transform.position;
             b.transform.rotation = Quaternion.Euler(0.0f, 0.0f, rotationZ);
             b.GetComponent<Rigidbody2D>().velocity = direction * bulletSpeed;
