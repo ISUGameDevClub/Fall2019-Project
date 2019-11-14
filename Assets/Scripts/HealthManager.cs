@@ -12,10 +12,14 @@ public class HealthManager : MonoBehaviour
 
     private Entity owner;
 
+    public AudioClip hurtSound;
+    AudioSource audioSource;
+
     public void Start()
     {
         owner = GetComponentInParent<Entity>();
         Debug.Log(owner.name);
+        audioSource = GetComponent<AudioSource>();
     }
 
     public int GetMaxHealth()
@@ -38,6 +42,7 @@ public class HealthManager : MonoBehaviour
 
     public void TakeDamage(int damage)
     {
+        audioSource.PlayOneShot(hurtSound, 0.7F);
         SetCurrentHealth(GetCurrentHealth() - damage);
         CheckIfDead();
     }
