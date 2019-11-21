@@ -47,4 +47,12 @@ TagManager:
     locked: 0
   - name: Background
     uniqueID: 544676449
+  - name: Ground Tiles
+    uniqueID: 893153501
+    locked: 0
+  - name: Things on ground
+    uniqueID: 1443210755
+    locked: 0
+  - name: Colliders
+    uniqueID: 4106854795
     locked: 0

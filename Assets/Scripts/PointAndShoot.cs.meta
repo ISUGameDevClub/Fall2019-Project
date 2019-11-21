@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ba7badf8c6984c044a783e5f18d0a87e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - crosshairs: {instanceID: 0}
+  - player: {instanceID: 0}
+  - bulletPrefab: {instanceID: 0}
+  - bulletStart: {instanceID: 0}
+  - impact: {fileID: 8300000, guid: b6fdc95dd58cefd469edb5822b2be41c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
