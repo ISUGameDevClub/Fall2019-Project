@@ -6,6 +6,7 @@ TagManager:
   tags:
   - NME
   - PB
+  - Cow
   layers:
   - Default
   - TransparentFX
@@ -43,6 +44,11 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Enemies
+    uniqueID: 3507077333
+    locked: 0
+  - name: Background
+    uniqueID: 544676449
   - name: Ground Tiles
     uniqueID: 893153501
     locked: 0
