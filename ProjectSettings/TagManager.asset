@@ -49,6 +49,7 @@ TagManager:
     locked: 0
   - name: Background
     uniqueID: 544676449
+    locked: 0
   - name: Ground Tiles
     uniqueID: 893153501
     locked: 0
