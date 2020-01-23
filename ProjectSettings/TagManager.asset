@@ -7,6 +7,8 @@ TagManager:
   - NME
   - PB
   - Cow
+  - Enemies Folder
+  - Bullets Folder
   layers:
   - Default
   - TransparentFX
@@ -44,14 +46,20 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Enemies
-    uniqueID: 3507077333
-    locked: 0
   - name: Background
     uniqueID: 544676449
     locked: 0
   - name: Ground Tiles
     uniqueID: 893153501
+    locked: 0
+  - name: Livestock
+    uniqueID: 3681771497
+    locked: 0
+  - name: Player
+    uniqueID: 1393531987
+    locked: 0
+  - name: Enemies
+    uniqueID: 3507077333
     locked: 0
   - name: Things on ground
     uniqueID: 1443210755

@@ -1,13 +1,19 @@
-﻿public class Enemy : Entity
+﻿using UnityEngine;
+
+public class Enemy : Entity
 {
+
+    private Transform targetFolderTransform;
+
     // Start is called before the first frame update
     void Start()
     {
-        
+        targetFolderTransform = GameObject.FindGameObjectWithTag("Enemies Folder").transform;
+        transform.SetParent(targetFolderTransform, false);
     }
 
     // Update is called once per frame
-    void Update()
+    public override void Update()
     {
         
     }

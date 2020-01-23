@@ -34,10 +34,10 @@ public class EnemyManager : MonoBehaviour
     {
         spawnEnabled = false;
         spawning = false;
-    }
+}
 
-    // Update is called once per frame
-    void Update()
+// Update is called once per frame
+void Update()
     {
         if (spawnEnabled && !spawning)
         {

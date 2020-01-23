@@ -604,7 +604,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   manager1: {fileID: 386654703}
-  manager2: {fileID: 0}
+  manager2: {fileID: 2073576280}
 --- !u!4 &1439519675
 Transform:
   m_ObjectHideFlags: 0

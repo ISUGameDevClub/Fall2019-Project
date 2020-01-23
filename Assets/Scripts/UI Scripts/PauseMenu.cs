@@ -7,7 +7,7 @@ public class PauseMenu : MonoBehaviour
     public static bool gameIsPaused = false;
 
     [SerializeField]
-    private PauseMenuUI pauseMenuUI;
+    private PauseMenuUI pauseMenuUI = null;
 
     AudioSource audioData;
 

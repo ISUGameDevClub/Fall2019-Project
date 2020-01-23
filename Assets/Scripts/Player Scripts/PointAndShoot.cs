@@ -22,14 +22,23 @@ public class PointAndShoot : MonoBehaviour
     public AudioClip impact;
     AudioSource audioSource;
 
+    //Michael Reyes -- added to organize.
+    private Transform targetFolderTransform;
+
     // Use this for initialization
     void Start()
     {
+        //Michael Reyes -- added to organize.
+        targetFolderTransform = GameObject.FindGameObjectWithTag("Bullets Folder").transform;
+
         Cursor.visible = false;
         for (int n = 0; n < 10; n++)
         {
             GameObject bull = Instantiate(bulletPrefab) as GameObject;
             b[n] = bull;
+            //Michael Reyes -- added to organize.
+            b[n].transform.SetParent(targetFolderTransform, false);
+
             b[n].SetActive(false);
         }
         audioSource = GetComponent<AudioSource>();
