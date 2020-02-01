@@ -4,6 +4,7 @@ public class Enemy : Entity
 {
 
     private Transform targetFolderTransform;
+    [SerializeField] private int pointsWorth = 1; //The number of points the player gets for killing this enemy.
 
     // Start is called before the first frame update
     void Start()
@@ -15,7 +16,7 @@ public class Enemy : Entity
     // Update is called once per frame
     public override void Update()
     {
-        
+        GetHealthManager().CheckIfDead();
     }
 
     //New shows that I am overiding this method from superclass Entity. Maybe OVERRIDE?
@@ -27,6 +28,10 @@ public class Enemy : Entity
 
     public override void Die()
     {
-    
+        //Destroy/deactivate enemy when dead.
+        this.gameObject.SetActive(false);
+        //Give player points from this enemy.
+        GameManager.AddPoints(pointsWorth);
+
     }
 }

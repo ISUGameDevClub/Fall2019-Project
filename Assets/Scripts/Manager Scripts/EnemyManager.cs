@@ -20,8 +20,8 @@ public class EnemyManager : MonoBehaviour
 {
     public GameObject enemy;    //prefab of enemy to be spawned
 
-    public float firstSpawn = 5f;     //time in seconds to first spawn
-    public float spawnTime = 2f;       //time in seconds between spawns
+    public float firstSpawn = 10f;     //time in seconds to first spawn
+    public float spawnTime = 3f;       //time in seconds between spawns
     public Transform[] spawnPoints;    //where enemies spawn
     public bool spawnEnabled;          //see implementation, controls spawner
     public bool spawning;              //is object spawning enemies?

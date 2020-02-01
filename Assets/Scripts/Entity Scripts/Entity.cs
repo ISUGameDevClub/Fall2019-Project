@@ -16,7 +16,7 @@ public class Entity : MonoBehaviour
     //private Weapon currentWeapon;
 
     // Start is called before the first frame update
-    void Start()
+    public void Start()
     {
         healthMan = GetComponent<HealthManager>(); //Value assigned to attached HealthManager script.
     }

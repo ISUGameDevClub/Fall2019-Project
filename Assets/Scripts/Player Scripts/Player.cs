@@ -1,5 +1,9 @@
-﻿public class Player : Entity
+﻿using UnityEngine;
+
+public class Player : Entity
 {
+    
+
     // Start is called before the first frame update
     void Start()
     {

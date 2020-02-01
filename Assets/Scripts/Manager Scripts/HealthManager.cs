@@ -19,6 +19,7 @@ public class HealthManager : MonoBehaviour
     {
         owner = GetComponentInParent<Entity>();
         Debug.Log(owner.name);
+        owner.Start();
         audioSource = GetComponent<AudioSource>();
     }
 

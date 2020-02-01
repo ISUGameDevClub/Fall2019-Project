@@ -1,18 +1,27 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
-{
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+{ 
+    private static int playerPoints = 0;
+    [SerializeField]
+    private Text pointsValueText;
 
     // Update is called once per frame
     void Update()
     {
-        
+        pointsValueText.text = playerPoints.ToString();
+    }
+
+    public int GetPoints()
+    {
+        return playerPoints;
+    }
+
+    public static void AddPoints(int pointsToAdd)
+    {
+        playerPoints += pointsToAdd;
     }
 }
